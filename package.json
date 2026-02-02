@@ -1,0 +1,11 @@
+{
+	"name": "jsonata-lint",
+	"version": "1.0.0",
+	"main": "index.js",
+	"bin": {
+		"jsonata-lint": "./index.js"
+	},
+	"dependencies": {
+		"jsonata": "^2.1.0"
+	}
+}
